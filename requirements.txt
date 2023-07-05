@@ -1,0 +1,8 @@
+Streamlit
+numpy 
+Pandas
+Scikit-learn
+Plotly  
+Matplotlib
+Seaborn	
+Opencv-python-headless
