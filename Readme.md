@@ -31,11 +31,11 @@ Identify missing values in the dataset and visualize their distribution. Employ 
 git clone https://github.com/your-username/EDA-Streamlit-App.git
 </pre>
 
-3 . Install the required dependencies
+3 . Install the required dependencies <a href="https://github.com/MuhammadSaad-ml/eda-webapp/blob/main/requirements.txt">requirements.txt</a>
 <pre>
-pip install -r requirements.txt
+pip install -r requirements.txt 
 </pre>
-4 . Run the Streamlit app
+4 . Run the Streamlit app by opening <a href="https://github.com/MuhammadSaad-ml/eda-webapp/blob/main/EDA.WEBAPP.py">EDA WEBAPP.py</a>
 <pre>
 streamlit run app.py 
 or whatever file name you have 
