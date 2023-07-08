@@ -11,7 +11,7 @@ This repository contains an interactive web application for Exploratory Data Ana
 <b>Dataset Exploration:</b>
 Upload and analyze datasets up to 200 MB in size. The app provides an intuitive interface to explore the dataset's structure, visualize data distributions, and gain insights.
 
-<b>Data Summary:</b>
+<b>Data Summary :</b>
  Generate descriptive statistics, including count, mean, standard deviation, minimum, maximum, and quartiles for numeric columns. Obtain unique value counts and value frequencies for categorical columns.
 
 <b>Data Visualization:</b> 
