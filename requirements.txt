@@ -4,5 +4,5 @@ Pandas
 Scikit-learn
 Plotly  
 Matplotlib
-Seaborn	
+Seaborn
 Opencv-python-headless
