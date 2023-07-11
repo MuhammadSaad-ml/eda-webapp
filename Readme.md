@@ -6,7 +6,7 @@ This repository contains an interactive web application for Exploratory Data Ana
 <img src="https://i.imgur.com/CRstwB3.png">
 <img src="https://i.imgur.com/QZ626zn.png">
 <img src="https://i.imgur.com/0XEN29E.png">
-## Features
+## Features:
 
 <b>Dataset Exploration:</b>
 Upload and analyze datasets up to 200 MB in size. The app provides an intuitive interface to explore the dataset's structure, visualize data distributions, and gain insights.
