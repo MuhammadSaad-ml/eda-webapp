@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/EDA-green"><img src =https://img.shields.io/badge/Build_with-Python-red><img src =https://img.shields.io/badge/Framework-Streamlit-yellow>
 <img src="https://img.shields.io/badge/Data-hotpink"><img src="https://img.shields.io/badge/Anaconda-a8b59c"><img src="https://img.shields.io/badge/Webapp-purple"><img src="https://img.shields.io/badge/VS_Code-blueviolet"><img src="https://img.shields.io/badge/Big-Data-gold">
 
-# Exploratory Data Analysis(EDA) Webapp Using Streamlit
+# Exploratory Data Analysis(EDA) Webapp Using Streamlit:
 This repository contains an interactive web application for Exploratory Data Analysis (EDA) built using Streamlit, a Python framework for creating data science and machine learning applications.
 <img src="https://i.imgur.com/CRstwB3.png">
 <img src="https://i.imgur.com/QZ626zn.png">
