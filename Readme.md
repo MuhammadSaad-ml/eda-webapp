@@ -3,9 +3,9 @@
 
 # Exploratory Data Analysis(EDA) Webapp Using Streamlit:
 This repository contains an interactive web application for Exploratory Data Analysis (EDA) built using Streamlit, a Python framework for creating data science and machine learning applications.
-<img src="https://i.imgur.com/CRstwB3.png">
-<img src="https://i.imgur.com/QZ626zn.png">
-<img src="https://i.imgur.com/0XEN29E.png">
+## Click On Image To Open Yotube Demo
+[![Example](https://i.imgur.com/CRstwB3.png)](https://www.youtube.com/watch?v=N9RmXB9TWns)
+
 ## Features:
 
 <b>Dataset Exploration:</b>
